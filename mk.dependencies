@@ -1,7 +1,15 @@
 [
   {
+    "repository": "android_vendor_htc_ville",
+    "target_path": "vendor/htc/ville"
+  },
+  {
     "repository": "android_device_htc_s4-common",
     "target_path": "device/htc/s4-common"
+  },
+  {
+    "repository": "android_vendor_htc_s4-common",
+    "target_path": "vendor/htc/s4-common"
   },
   {
     "repository": "android_device_htc_msm8960-common",
