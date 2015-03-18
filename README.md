@@ -1,6 +1,6 @@
 HTC One S (Ville)
 =================
 
-CyanogenMod device tree for the HTC One S (Ville) - CM11.0 Branch
+MoKee OpenSource device tree for the HTC One S (Ville) - MK50.2 Branch
 
-© 2014 - The CyanogenMod Project
+© 2014 - The MoKee OpenSource Project
